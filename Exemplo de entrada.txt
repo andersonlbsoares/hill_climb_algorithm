@@ -1,0 +1,5 @@
+A entrada usada para gerar os dados foi a mesma disponibilizada no documento de especificação do trabalho
+
+Entrada:
+0.0 1.0 2.0 0.0 1.0 1.0 3.0
+0.0 2.0 0.0 2.0 1.0 3.0 2.0

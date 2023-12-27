@@ -1,0 +1,5 @@
+Para executar o código é bem simples, entre na pasta "codigos" e execute o arquivo python main.py, para isso você pode utilizar o comando "python main.py" ou "python3 main.py" conforme a versão do python instalada no seu computador, o código utiliza a biblioteca openpyxl, caso não a tenha instalada, execute o comando "pip install openpyxl".
+
+O código irá gerar um arquivo de saída chamado "saida.xlsx", esses mesmo dados estão melhor representados e visíveis no arquivo "dadosOrganizados.xlsx" encontrado na pasta raiz desse trabalho.
+
+A interpretação desses dados pode ser encontrada no arquivo "Relatório.pdf".
